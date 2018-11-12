@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1044901167084",
+    "firebase_url": "https://firerecycler-bef08.firebaseio.com",
+    "project_id": "firerecycler-bef08",
+    "storage_bucket": "firerecycler-bef08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044901167084:android:9565c21c5122ea48",
+        "android_client_info": {
+          "package_name": "com.example.armandoedge.firerecycler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044901167084-qrbjpe91j98jiaqh9hb81o6lmgnn0a7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.armandoedge.firerecycler",
+            "certificate_hash": "0057b60bf59dda13ab097bbd7bde9b684bc52884"
+          }
+        },
+        {
+          "client_id": "1044901167084-mmqg1ul9dn13i71id9egtp2j7356qj8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxSSq1OgIxIAwY2q7IpKq4MGKfHW8FNPU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044901167084-mmqg1ul9dn13i71id9egtp2j7356qj8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
